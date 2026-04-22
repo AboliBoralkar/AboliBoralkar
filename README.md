@@ -59,15 +59,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AboliBoralkar&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AboliBoralkar&theme=tokyonight"/>
-</p>
-
----
-
 ## 🌐 Connect with Me
 <p>
 <a href="https://linkedin.com/in/aboli-boralkar/">
